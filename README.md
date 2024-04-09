@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="(https://www.instagram.com/seongmin5196/)" target="_blank"><img src="https://img.shields.io/badge/김성민-0XFF?style=flat-square&logo=E4405F&logoColor=0XFFF"/></a>
+
 ![images](https://github.com/Seongmin14/-seongmin14/assets/166467022/f926aceb-4496-4d4d-a5ed-81b61a94ae23)
+<a href="(https://www.instagram.com/seongmin5196/)" target="_blank"><img src="https://img.shields.io/badge/김성민-0XFF?style=flat-square&logo=E4405F&logoColor=0XFFF"/></a>
